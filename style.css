@@ -1,0 +1,12 @@
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.scale-label {
+	font-size: 0.8rem;
+}
+
+.bar {
+	fill: green;
+}
